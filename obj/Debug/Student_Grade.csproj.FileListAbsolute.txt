@@ -1,0 +1,22 @@
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\bin\Debug\Student_Grade.exe.config
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\bin\Debug\Student_Grade.exe
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\bin\Debug\Student_Grade.pdb
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\obj\Debug\Student_Grade.csproj.AssemblyReference.cache
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\obj\Debug\Student_Grade.csproj.SuggestedBindingRedirects.cache
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\obj\Debug\Student_Grade.Form1.resources
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\obj\Debug\Student_Grade.Properties.Resources.resources
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\obj\Debug\Student_Grade.csproj.GenerateResource.cache
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\obj\Debug\Student_Grade.csproj.CoreCompileInputs.cache
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\obj\Debug\Student_Grade.exe
+D:\Vary\RUPP\Year4\OOAD\Student_Grade\obj\Debug\Student_Grade.pdb
+D:\C# programming\ChapterA\Student_Grade\bin\Debug\Student_Grade.exe.config
+D:\C# programming\ChapterA\Student_Grade\bin\Debug\Student_Grade.exe
+D:\C# programming\ChapterA\Student_Grade\bin\Debug\Student_Grade.pdb
+D:\C# programming\ChapterA\Student_Grade\obj\Debug\Student_Grade.csproj.AssemblyReference.cache
+D:\C# programming\ChapterA\Student_Grade\obj\Debug\Student_Grade.csproj.SuggestedBindingRedirects.cache
+D:\C# programming\ChapterA\Student_Grade\obj\Debug\Student_Grade.Form1.resources
+D:\C# programming\ChapterA\Student_Grade\obj\Debug\Student_Grade.Properties.Resources.resources
+D:\C# programming\ChapterA\Student_Grade\obj\Debug\Student_Grade.csproj.GenerateResource.cache
+D:\C# programming\ChapterA\Student_Grade\obj\Debug\Student_Grade.csproj.CoreCompileInputs.cache
+D:\C# programming\ChapterA\Student_Grade\obj\Debug\Student_Grade.exe
+D:\C# programming\ChapterA\Student_Grade\obj\Debug\Student_Grade.pdb
